@@ -1,4 +1,6 @@
 [![Build Status](https://travis-ci.com/2028942481/Travis_CI_Tutorial.svg?branch=main)](https://travis-ci.com/2028942481/Travis_CI_Tutorial)
+[![codecov](https://codecov.io/gh/2028942481/Travis_CI_Tutorial/branch/main/graph/badge.svg?token=NV5VT4VRWM)](https://codecov.io/gh/2028942481/Travis_CI_Tutorial)
+
 # How to Use Travis CI with Java on GitHub
 This repository is a demo of how to use [Travis CI](https://docs.travis-ci.com/) in a Java project on GitHub.
 
