@@ -16,7 +16,7 @@ deploy:
   on:
     tags: true
     branch: tag
-    repo: <2028942481>/<Travis_CI_Tutorial>
+    repo: 2028942481/Travis_CI_Tutorial
 
 
 notifications:
