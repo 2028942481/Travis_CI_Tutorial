@@ -5,11 +5,6 @@ language: java
 jdk:
  - openjdk11
 
-
-after_success:
-  - bash <(curl -s https://codecov.io/bash)
-
-
 deploy:
   provider: releases
   file_glob: true
@@ -21,3 +16,8 @@ deploy:
     tags: true
     branch: tag
     repo: <your_github_username>/<your_repo_name>
+
+
+
+after_success:
+  - bash <(curl -s https://codecov.io/bash)
